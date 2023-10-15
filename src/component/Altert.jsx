@@ -22,8 +22,7 @@ const Alert = () => {
   return (
     <>
       <div>
-        <button onClick={() => addAlert()}>Click</button>
-        <button onClick={() => addAlert()}>Click</button>
+        <button onClick={() => addAlert()}>Click me to crete Alert</button>
       </div>
 
       <div className='alertBox'>

@@ -1,10 +1,13 @@
+body {
+  position: relative;
+}
+
 #root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
   font-family: sans-serif;
   text-align: center;
-  position: relative;
 }
 
 .alertBox {
